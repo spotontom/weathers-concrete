@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/weathers-concrete/static/css/main.5063863a.css",
-    "main.js": "/weathers-concrete/static/js/main.6b77f075.js",
+    "main.js": "/weathers-concrete/static/js/main.0ea17187.js",
     "static/js/453.74353808.chunk.js": "/weathers-concrete/static/js/453.74353808.chunk.js",
     "static/media/aaron-burden-t2b1Z-jPT-w-unsplash.jpg": "/weathers-concrete/static/media/aaron-burden-t2b1Z-jPT-w-unsplash.58654b732c90305680bc.jpg",
     "static/media/IMG_6512.JPG": "/weathers-concrete/static/media/IMG_6512.da992f08bcb9af9ba5fb.JPG",
@@ -16,11 +16,11 @@
     "static/media/slick.woff": "/weathers-concrete/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/weathers-concrete/index.html",
     "main.5063863a.css.map": "/weathers-concrete/static/css/main.5063863a.css.map",
-    "main.6b77f075.js.map": "/weathers-concrete/static/js/main.6b77f075.js.map",
+    "main.0ea17187.js.map": "/weathers-concrete/static/js/main.0ea17187.js.map",
     "453.74353808.chunk.js.map": "/weathers-concrete/static/js/453.74353808.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5063863a.css",
-    "static/js/main.6b77f075.js"
+    "static/js/main.0ea17187.js"
   ]
 }
